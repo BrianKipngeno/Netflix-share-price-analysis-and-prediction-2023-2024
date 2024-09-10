@@ -11,3 +11,29 @@ Through correlation analysis, we examine relationships between various price poi
 To predict future stock prices, we implement a linear regression model, which leverages historical data to forecast short-term stock movements. This predictive modeling approach provides a practical tool for investors and stakeholders to anticipate future trends.
 
 Overall, the project offers a comprehensive analysis of Netflix’s stock performance, combining data analysis, statistical modeling, and visualization to generate actionable insights.
+
+![](https://forthebadge.com/images/badges/check-it-out.svg)
+
+# Installation Requirements
+Use Google Colab or Jupyter Notebook for data preparation and analysis.
+
+Import pandas, Numpy,seaborn, matplotlib, pyplot, sklearn libraries for data manipulation and EDA
+
+Loading datasets and previewing datasets.
+
+Data Cleaning
+
+Exploratory Data Analysis
+
+Modelling: Linear regression
+
+
+# Technologies used
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) 
+
+[![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
+
+Pandas
+Numpy
+sklearn
